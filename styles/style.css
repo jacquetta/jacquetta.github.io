@@ -1,3 +1,27 @@
 body, h1, h2, h3, h4, h5, h6, p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+/* header */
+
+
+
+/* project section */
+.one {
+    height: 300px;
+    background-color:whitesmoke
+}
+.two {
+    height: 300px;
+    background-color:mistyrose
+}
+
+.three {
+    height: 300px;
+    background-color: lavender
+}
+
+.four {
+    height: 300px;
+    background-color: lavenderblush;
+}
